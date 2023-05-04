@@ -1,2 +1,2 @@
 # active-directory-prereqs
-Learn how to setup a Domain Controller with Windows Server and install Active Directory then create a users with certain permissions.
+Learn how to setup a Domain Controller with Windows Server and install Active Directory then create a users with certain permissions and create files to share with specific groups.
